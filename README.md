@@ -2,7 +2,7 @@
 
 This repository contains a Power BI Report Template (`.pbit`) designed under a **"Simplicity-First"** layout philosophy, focusing on executive clarity, balanced visual hierarchy, and fast decision-making.
 
-![Dashboard Preview](Analysis of Critical Injury Events in Ontario Workplaces.png)
+![Dashboard Preview](./Analysis%20of%20Critical%20Injury%20Events%20in%20Ontario%20Workplaces.png)
 
 ## 📌 Key Features
 - **Executive Grid Layout:** Upper-level KPI cards, clear visual distribution, and standardized sectioning.
